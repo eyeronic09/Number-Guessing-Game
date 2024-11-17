@@ -10,4 +10,4 @@ while True:
     elif userNumber >= computerNumber:
         print(f"the gusse is to high ")
     elif userNumber <= computerNumber:
-        print(f"the gusse is to low ")
+        print(f"the gusse is to low ") 
